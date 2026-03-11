@@ -7,7 +7,5 @@
     "url": "https://github.com/Dammyjay93"
   },
   "homepage": "https://github.com/Dammyjay93/interface-design",
-  "repository": "https://github.com/Dammyjay93/interface-design",
-  "commands": "./.claude/commands",
-  "skills": "./.claude/skills"
+  "repository": "https://github.com/Dammyjay93/interface-design"
 }
